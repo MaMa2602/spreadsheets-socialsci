@@ -145,7 +145,7 @@ another field and specify the units the cell is in.
 
 ## Entering more than one piece of information in a cell {#info}
 
-**Example**: Your informant has multiple livestock of different types. You record this information as "3, (oxen , cows)" to indicate that there are three total livestock, which is a mixture of oxen and cows.
+**Example**: Your informant has multiple livestock of different types. You record this information as "3, (oxen, cows)" to indicate that there are three total livestock, which is a mixture of oxen and cows.
 
 **Solution**: Don't include more than one piece of information in a cell. This will limit the ways in which you can analyze your data.
 If you need both these types of information (the total number of animals and the types), design your data sheet to include this information. For example, include a separate column for each type of livestock.
